@@ -1,7 +1,8 @@
 .field{
-  width: 200px;
+  width: 300px;
   padding-bottom: 20px;
 }
+
 
 .colour-border{
   border: 10px solid crimson;
@@ -11,4 +12,5 @@
 
 .header{
   padding: 10px;
+  width: 400px;
 }
