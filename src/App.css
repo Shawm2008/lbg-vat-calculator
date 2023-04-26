@@ -5,9 +5,9 @@
 
 
 .colour-border{
-  border: 10px solid crimson;
+  border: 10px solid rgba(137, 187, 45, 0.938);
   padding: 10px;
-  background-color: blueviolet;
+  background-color: rgba(227, 241, 194, 0.836);
 }
 
 .header{
